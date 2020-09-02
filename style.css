@@ -154,6 +154,8 @@ html {
         grid-area: picture1;
         width: 100%;
         height: 100%;
+        align-self: flex-start;
+
     }
 
     picture img{
@@ -164,6 +166,8 @@ html {
     .picture2{
         display: flex;
         grid-area: picture2;
+        align-self: flex-start;
+
     }
 
     .picture2 img{
