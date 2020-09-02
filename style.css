@@ -152,10 +152,13 @@ html {
     picture{
         display: flex;
         grid-area: picture1;
+        width: 100%;
+        height: auto;
     }
 
     picture img{
         width: 25%;
+        height: auto;
     }
 
     .picture2{
