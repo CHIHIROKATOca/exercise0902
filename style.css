@@ -168,7 +168,7 @@ html {
     }
 
     .picture2 img{
-        width: 4fr;
+        width: 25%;
     }
 
   @media(min-width:600px){
