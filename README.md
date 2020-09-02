@@ -8,7 +8,7 @@ This is a web page using grid-template css.
 
 
 ## Demo
-https://chihirokatoca.github.io/project1/
+https://chihirokatoca.github.io/exercise0902/.
 
 
 
